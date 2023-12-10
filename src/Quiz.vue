@@ -103,14 +103,14 @@ import { computed, shallowRef, reactive } from "vue";
 
 const questions = reactive([
   {
-    question: "What is the capital of France?",
-    options: ["London", "Berlin", "Paris", "Rome"],
-    correctAnswer: "Paris",
+    question: "What is the capital of Ukraine?",
+    options: ["Kyiv", "Kiev"],
+    correctAnswer: "Kyiv",
   },
   {
-    question: "Which planet is closest to the sun?",
-    options: ["Earth", "Mars", "Venus", "Mercury"],
-    correctAnswer: "Mercury",
+    question: "russia is?",
+    options: ["a terrorist state"],
+    correctAnswer: "a terrorist state",
   },
 ]);
 
